@@ -1,0 +1,20 @@
+.logo-studio-footer {
+  color: #f4f4fd;
+}
+
+.footer {
+  background-color: #2e2f42;
+  padding: 100px 0;
+}
+
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  max-width: 264px;
+}
+
+.logo-footer {
+  display: inline-block;
+  margin-bottom: 16px;
+}
